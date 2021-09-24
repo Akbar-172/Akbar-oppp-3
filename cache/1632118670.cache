@@ -1,0 +1,5 @@
+
+client information: {'id': '889167459599384617', 'username': 'Test x', 'avatar': None, 'discriminator': '9147', 'public_flags': 0, 'flags': 0, 'bot': True, 'banner': None, 'banner_color': None, 'accent_color': None, 'bio': '', 'locale': 'en-US', 'mfa_enabled': True, 'email': None, 'verified': True}
+token: ODg5MTY3NDU5NTk5Mzg0NjE3.YUdTug.YiZ7BfAT5Ck6VqhTBMTaBu53PpE
+guild: 889166620319182939
+bot invite (if its a bot): https://discord.com/api/oauth2/authorize?client_id=889167459599384617&permissions=8&scope=bot

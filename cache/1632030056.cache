@@ -1,0 +1,5 @@
+
+client information: {'id': '877852240117903371', 'username': 'Akbar Playz', 'avatar': None, 'discriminator': '7674', 'public_flags': 0, 'flags': 0, 'bot': True, 'banner': None, 'banner_color': None, 'accent_color': None, 'bio': '', 'locale': 'en-US', 'mfa_enabled': True, 'email': None, 'verified': True}
+token: ODc3ODUyMjQwMTE3OTAzMzcx.YR4pmw.nTRPp4cklcl3hfW71AncCCJSvWg
+guild: 888504413646368809
+bot invite (if its a bot): https://discord.com/api/oauth2/authorize?client_id=877852240117903371&permissions=8&scope=bot

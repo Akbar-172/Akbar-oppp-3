@@ -1,0 +1,5 @@
+
+client information: {'id': '889141169689354312', 'username': 'NUKER TEST', 'avatar': None, 'discriminator': '4425', 'public_flags': 0, 'flags': 0, 'bot': True, 'banner': None, 'banner_color': None, 'accent_color': None, 'bio': '', 'locale': 'en-US', 'mfa_enabled': True, 'email': None, 'verified': True}
+token: ODg5MTQxMTY5Njg5MzU0MzEy.YUc7Pg.N-92vQhp7nj6tEihLynwCQsI5_4
+guild: 889144539678408715
+bot invite (if its a bot): https://discord.com/api/oauth2/authorize?client_id=889141169689354312&permissions=8&scope=bot

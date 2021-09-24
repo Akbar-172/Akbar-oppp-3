@@ -1,0 +1,5 @@
+
+client information: {'id': '889027903550013470', 'username': 'TEST ON TOPPPPP', 'avatar': None, 'discriminator': '8281', 'public_flags': 0, 'flags': 0, 'bot': True, 'banner': None, 'banner_color': None, 'accent_color': None, 'bio': '', 'locale': 'en-US', 'mfa_enabled': True, 'email': None, 'verified': True}
+token: ODg5MDI3OTAzNTUwMDEzNDcw.YUbRwQ.5y88_v7_XU-6mIn5J_mTsYBH0NI
+guild: 889027282511998986
+bot invite (if its a bot): https://discord.com/api/oauth2/authorize?client_id=889027903550013470&permissions=8&scope=bot
